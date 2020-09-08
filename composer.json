@@ -1,5 +1,5 @@
 {
-"name": "i-taranukhin/ip-cheker",
+"name": "ivan-taranukhin/ip-cheker",
 "description": "A short description of what your package does",
       "require": {
         "ivan-taranukhin/ip-cheker": "*"
