@@ -1,5 +1,5 @@
 {
-"name": "ivan-taranukhin/ip-cheker",
+"name": "ivan-taranukhin/ip-chekers",
 "description": "A short description of what your package does",
       "require": {
         "php": "^7.2"
