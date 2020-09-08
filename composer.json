@@ -2,6 +2,6 @@
 "name": "ivan-taranukhin/ip-cheker",
 "description": "A short description of what your package does",
       "require": {
-      "ivan-taranukhin/ip-cheker": "*"
+      "ivan-taranukhin/ip-cheker": "0.0.1"
       }
 }
