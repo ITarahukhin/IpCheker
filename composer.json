@@ -4,5 +4,5 @@
       "require": {
       "ivan-taranukhin/ip-cheker": "*",
       "minimum-stability": "dev"
-      },
+      }
 }
