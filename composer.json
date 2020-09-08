@@ -1,7 +1,8 @@
 {
-"name": "i-taranukhin/ip-cheker",
+"name": "ivan-taranukhin/ip-cheker",
 "description": "A short description of what your package does",
-    "require": {
-        "i-taranukhin/ip-cheker": "*"
-    }
+      "require": {
+      "ivan-taranukhin/ip-cheker": "*"
+      },
+      "minimum-stability": "dev-master"
 }
