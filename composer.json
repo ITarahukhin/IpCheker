@@ -4,5 +4,9 @@
       "require": {
         "php": "^7.2"
     },
- "license": "MIT"
+ "license": "MIT",
+"autoload": {
+        "psr-4": { "ivan-taranukhin\\ip-cheker\\App\\Dl\\Utils": "" },
+        "files": [ "IpChecker.php" ]
+    }
 }
