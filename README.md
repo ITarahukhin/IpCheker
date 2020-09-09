@@ -1,4 +1,6 @@
 composer require ivan-taranukhin/ip-cheker
+
+
 $checker = new IpChecker();
 $checker->setMask(24);
 $checker->setNetwork("192.168.1.0");
