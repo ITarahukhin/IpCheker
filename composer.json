@@ -7,6 +7,6 @@
  "license": "MIT",
 "autoload": {
         "psr-4": { "ivan-taranukhin\\ip-cheker\\App\\Dl\\Utils\\": "" },
-        "files": [ "IpChecker.php" ]
+        "files": [ "App/Dl/Utils/IpChecker.php" ]
     }
 }
